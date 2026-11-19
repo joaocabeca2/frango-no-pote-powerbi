@@ -1,5 +1,9 @@
 # Frango no Pote | Dashboard de Análise Comercial
 
+## Explore o Dashboard
+
+[📊 Acessar Dashboard Interativo](https://app.powerbi.com/groups/me/reports/28fa6e90-65b4-4670-9772-aaf5fc512ebd/c50a2341cb20bcbd7709?experience=power-bi)
+
 ## Sobre o projeto
 
 Projeto de Business Intelligence desenvolvido no Power BI para analisar o desempenho comercial de uma rede fictícia de alimentação com 60 lojas, utilizando uma base de 600 mil registros de vendas distribuídos ao longo de 24 meses.
